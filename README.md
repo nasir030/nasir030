@@ -34,7 +34,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" />
   <img width="12" />
-  
 </div>
 
 ###
@@ -57,4 +56,13 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+###
+
+## 📈 My GitHub Contribution Snake
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" /> 
+
+###
+
+## 📊 My Skills & Work Progress
+
+<img src="https://quickchart.io/chart?c=%7Btype%3A'polarArea'%2Cdata%3A%7Blabels%3A%5B'PHP%20Web%20Development'%2C'Data%20Engineering%20Learning'%2C'Python'%2C'SQL%20%26%20Databases'%2C'ETL%20Concepts'%2C'Projects%20Completed'%5D%2Cdatasets%3A%5B%7Bdata%3A%5B90%2C60%2C70%2C75%2C50%2C80%5D%2CbackgroundColor%3A%5B'%23f39c12'%2C'%2327ae60'%2C'%232980b9'%2C'%238e44ad'%2C'%23c0392b'%2C'%2316a085'%5D%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bposition%3A'right'%2Clabels%3A%7BboxWidth%3A20%2Cfont%3A%7Bsize%3A14%7D%7D%7D%7D%7D%7D" alt="Skills Progress" />

@@ -2,10 +2,6 @@
 
 ###
 
-
-
-###
-
 <img align="right" height="150" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 
 ###
@@ -38,7 +34,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
+  
 </div>
 
 ###
